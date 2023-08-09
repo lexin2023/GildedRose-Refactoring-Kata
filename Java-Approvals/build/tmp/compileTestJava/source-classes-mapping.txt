@@ -1,0 +1,2 @@
+com/gildedrose/GildedRoseApprovalTest.java
+ com.gildedrose.GildedRoseApprovalTest

@@ -1,0 +1,6 @@
+com/gildedrose/Item.java
+ com.gildedrose.Item
+com/gildedrose/Program.java
+ com.gildedrose.Program
+com/gildedrose/GildedRose.java
+ com.gildedrose.GildedRose
